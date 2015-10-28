@@ -1,0 +1,7 @@
+name:dogy
+age:3
+hobby:mer
+addr:guangzhou
+money:none
+wish:much money much food
+mood:low
